@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Universal AR Zapar",
+"productVersion": "0.1",
+"dataUrl": "Ultimo.data.unityweb",
+"wasmCodeUrl": "Ultimo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ultimo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
